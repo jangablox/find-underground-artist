@@ -37,13 +37,13 @@ function ArtistPage(props){
         fetchData().then((res) =>{
             setArtist(res)
         })
-    },[])
+    })
     // setArtist(data.id, data.pop - 1, idJson, clusters, popZones)
     
     return(
         <>
         <div className="Bigg">
-        <h1 className="Bigg1"><img class="middle" src= {`${image}`} width={200} height={200}></img> Results for {data.name}</h1>
+        <h1 className="Bigg1"><img class="middle" src= {`${image}`} width={200} height={200} alt = ""></img> Results for {data.name}</h1>
             
             
         </div>

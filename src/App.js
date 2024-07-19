@@ -76,7 +76,7 @@ function App() {
     
       <div class = "container-logo">
 
-        <img className = "logo" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEq-U-qfopzP9STZ1c7vYvy662Hxu2h5Py94JiFiP&s"></img>
+        <img className = "logo" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEq-U-qfopzP9STZ1c7vYvy662Hxu2h5Py94JiFiP&s" alt =""></img>
       </div>
       <h2 className = "title-text">Find Artists based on Music Taste and Popularity</h2>
       <div className = "container-search-bar">

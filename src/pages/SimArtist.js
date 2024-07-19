@@ -20,8 +20,8 @@ export default function SimArtist({artist}){
                     <h1>{daArtist}</h1>
                 </a>
                 </div> */}
-            <a href = {`https://open.spotify.com/artist/${data.id}`} target="_blank">
-            <h1 class="center"><img class = "middle" src= {`${image}`} width={150} height={150}/>{daArtist}</h1>
+            <a href = {`https://open.spotify.com/artist/${data.id}`} target="_blank" rel="noreferrer">
+            <h1 class="center"><img class = "middle" src= {`${image}`} width={150} height={150} alt =""/>{daArtist}</h1>
             </a>
         </div>
         

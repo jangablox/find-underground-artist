@@ -18,7 +18,7 @@ export default function Artist({artist}){
             {/* </div>
             <div className="artist-text"> */}
             <Link to= "/ArtistPage" state= {{data: data}}>
-                <h1 class="center"><img class = "middle" src= {`${image}`} width={150} height={150}/>{daArtist}</h1>
+                <h1 class="center"><img class = "middle" src= {`${image}`} width={150} height={150} alt =""/>{daArtist}</h1>
             </Link>
             </div>
             
