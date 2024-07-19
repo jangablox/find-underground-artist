@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/find-underground-artists/static/css/main.9943850b.css",
-    "main.js": "/find-underground-artists/static/js/main.d5073bb4.js",
-    "static/js/787.ebea371e.chunk.js": "/find-underground-artists/static/js/787.ebea371e.chunk.js",
-    "index.html": "/find-underground-artists/index.html",
-    "main.9943850b.css.map": "/find-underground-artists/static/css/main.9943850b.css.map",
-    "main.d5073bb4.js.map": "/find-underground-artists/static/js/main.d5073bb4.js.map",
-    "787.ebea371e.chunk.js.map": "/find-underground-artists/static/js/787.ebea371e.chunk.js.map"
+    "main.css": "/App/static/css/main.9943850b.css",
+    "main.js": "/App/static/js/main.05ff74ca.js",
+    "static/js/787.ebea371e.chunk.js": "/App/static/js/787.ebea371e.chunk.js",
+    "index.html": "/App/index.html",
+    "main.9943850b.css.map": "/App/static/css/main.9943850b.css.map",
+    "main.05ff74ca.js.map": "/App/static/js/main.05ff74ca.js.map",
+    "787.ebea371e.chunk.js.map": "/App/static/js/787.ebea371e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9943850b.css",
-    "static/js/main.d5073bb4.js"
+    "static/js/main.05ff74ca.js"
   ]
 }
