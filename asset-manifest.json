@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/find-underground-artist/static/css/main.9943850b.css",
-    "main.js": "/find-underground-artist/static/js/main.d7f81141.js",
+    "main.js": "/find-underground-artist/static/js/main.e09daf74.js",
     "static/js/787.d3b05839.chunk.js": "/find-underground-artist/static/js/787.d3b05839.chunk.js",
     "index.html": "/find-underground-artist/index.html",
     "main.9943850b.css.map": "/find-underground-artist/static/css/main.9943850b.css.map",
-    "main.d7f81141.js.map": "/find-underground-artist/static/js/main.d7f81141.js.map",
+    "main.e09daf74.js.map": "/find-underground-artist/static/js/main.e09daf74.js.map",
     "787.d3b05839.chunk.js.map": "/find-underground-artist/static/js/787.d3b05839.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9943850b.css",
-    "static/js/main.d7f81141.js"
+    "static/js/main.e09daf74.js"
   ]
 }
