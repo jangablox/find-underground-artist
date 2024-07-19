@@ -1,13 +1,14 @@
 {
-  "homepage": "https://jangablox.github.io/find-underground-artists",
+  "homepage": "https://jangablox.github.io/find-underground-artist",
   "browser": {
     "fs": false,
     "os": false,
     "path": false,
     "child_process": false
   },
-  "name": "i",
-  "version": "a",
+  "name": "find-underground-artist",
+  "version": "0.1.0",
+  "private": "true",
   "dependencies": {
     "@capacitor/filesystem": "^5.1.2",
     "@testing-library/jest-dom": "^5.17.0",
